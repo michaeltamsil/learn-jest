@@ -6,6 +6,7 @@
     "jest": "^23.6.0"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "parse-json": "^4.0.0"
   }
 }
