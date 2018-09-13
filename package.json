@@ -1,8 +1,11 @@
 {
-  "scripts":{
+  "scripts": {
     "test": "jest"
   },
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
